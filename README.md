@@ -8,3 +8,9 @@ This particle simulation framework replicates the entire cell cycle of a virtual
 3. Open the extracted folder in your Processing IDE.
 4. Ensure all `.pde` files are present.
 5. You should be able to run the software.
+
+## License
+This whole software and complete repository is licensed under the Blackwell License, which is available within the LICENSE file.
+
+# Please refrain from claiming this software as your own.
+Yes I'm looking at you @lolitka123
