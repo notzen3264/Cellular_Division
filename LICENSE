@@ -1,21 +1,51 @@
-MIT License
+Blackwell License (Attribution and Restricted Use) v1.0
 
-Copyright (c) 2025 ZenDev
+Copyright (c) 2025 Blackwell Labs, MicroLab, ZenDev
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT: THIS LICENSE IS A LEGAL AGREEMENT BETWEEN YOU (“LICENSEE”) AND THE ORIGINAL AUTHOR (“LICENSOR”) OF THE SOFTWARE. BY DOWNLOADING, USING, OR DISTRIBUTING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of License
+1.1. Subject to the terms and conditions of this License, the Licensor hereby grants the Licensee a non-exclusive, non-transferable, and revocable license to download, use, and distribute the Software solely in its original, unmodified form.
+1.2. The Software may only be used for personal or non-commercial purposes unless explicit written permission has been granted by the Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Prohibited Actions
+2.1. The Licensee shall not modify, adapt, translate, or create any derivative works of the Software.
+2.2. The Licensee shall not sell, resell, license, or otherwise commercially exploit the Software in any form.
+2.3. The Licensee shall not alter, modify, or remove any part of this License, including all copyright notices,
+      license notices, and any other proprietary markings embedded in the Software.
+2.4. The Licensee shall not represent or claim authorship of the Software or misrepresent the origin of the Software.
+
+3. Redistribution and Attribution
+3.1. Redistribution or reuploading of the Software is permitted only if such redistribution is done in its entirety,
+      without any modifications, and in strict compliance with this License.
+3.2. All copies of the Software distributed in any form must include:
+      (a) An unaltered copy of this License in its entirety;
+      (b) A clear and conspicuous attribution to the Licensor, including the original repository URL or other identifying
+          information as provided by the Licensor.
+3.3. Failure to comply with the attribution requirements set forth in Section 3 shall be deemed a material breach of this License.
+
+4. Disclaimer of Warranty
+4.1. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+      TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+4.2. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES
+      ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. Termination
+5.1. This License is effective until terminated. The Licensee's rights under this License shall immediately terminate without notice
+      upon any breach of the terms set forth herein.
+5.2. Upon termination, the Licensee must immediately cease all use, distribution, and reproduction of the Software and destroy
+      all copies, in whole or in part, in its possession.
+
+6. Governing Law and Jurisdiction
+6.1. This License shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to
+      any conflict of law principles.
+6.2. Any disputes arising under or related to this License shall be subject to the exclusive jurisdiction of the courts located in
+      [Insert Jurisdiction].
+
+7. Entire Agreement
+7.1. This License constitutes the entire agreement between the Licensor and the Licensee with respect to the Software and supersedes
+      all prior or contemporaneous understandings, representations, or agreements, whether written or oral.
+7.2. Any attempted amendment or modification of this License shall be void unless made in writing and signed by both the Licensor
+      and an authorized representative of the Licensee.
+
+BY DOWNLOADING, USING, OR DISTRIBUTING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
